@@ -7,6 +7,6 @@
     <title>Vo Thanh Kha</title>
 </head>
 <body>
-    <?php echo 'Vo Thanh Kha' ?>
+    <?php echo 'Test Connect PHP to Heroku successful' ?>
 </body>
 </html>
